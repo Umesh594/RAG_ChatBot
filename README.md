@@ -6,7 +6,7 @@
 - **Embeddings:** Jina Embeddings (or alternative open-source embeddings)  
 - **Vector Database:** Qdrant (or Chroma/faiss)  
 - **LLM API:** Google Gemini API (free trial)  
-- **Cache / Session:** Redis (in-memory)  
+- **Cache / Session:** Redis (in memory)  
 - **Optional DB:** PostgreSQL or MySQL (for persisting transcripts)
 ## **Features**
 ### **RAG Pipeline**
